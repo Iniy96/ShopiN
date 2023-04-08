@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ShopiN/static/css/main.46c1e4f5.css",
+    "main.js": "/ShopiN/static/js/main.c6e3e026.js",
+    "static/media/category6.jpg": "/ShopiN/static/media/category6.bd45a0a4d783023fe0b5.jpg",
+    "static/media/carousel4.jpg": "/ShopiN/static/media/carousel4.e910ea82a284749893e1.jpg",
+    "static/media/carousel3.jpg": "/ShopiN/static/media/carousel3.0cf33c37118b5fe655d9.jpg",
+    "static/media/category5.jpg": "/ShopiN/static/media/category5.e36d01decde6be56f9ef.jpg",
+    "static/media/carousel1.jpg": "/ShopiN/static/media/carousel1.adbbd84361c4615d3a1d.jpg",
+    "static/media/category2.jpg": "/ShopiN/static/media/category2.22bf79e6c247428331c7.jpg",
+    "static/media/carousel2.jpg": "/ShopiN/static/media/carousel2.e9852399bd28609555f4.jpg",
+    "static/media/featuredproduct1.jpg": "/ShopiN/static/media/featuredproduct1.58ab9e6ad7ac11fd19f3.jpg",
+    "static/media/featuredproduct4.jpg": "/ShopiN/static/media/featuredproduct4.34f93cdec63ec4b784d3.jpg",
+    "static/media/category4.jpg": "/ShopiN/static/media/category4.481ddb17dfac5a1869e2.jpg",
+    "static/media/featuredproduct3.jpg": "/ShopiN/static/media/featuredproduct3.d62560422de6be54c7a1.jpg",
+    "static/media/category3.jpg": "/ShopiN/static/media/category3.f8baf8435d107136d420.jpg",
+    "static/media/category1.jpg": "/ShopiN/static/media/category1.b6b5cd0cd00cb3666f35.jpg",
+    "static/media/featuredproduct2.jpg": "/ShopiN/static/media/featuredproduct2.70ec7b863542284098f4.jpg",
+    "index.html": "/ShopiN/index.html",
+    "main.46c1e4f5.css.map": "/ShopiN/static/css/main.46c1e4f5.css.map",
+    "main.c6e3e026.js.map": "/ShopiN/static/js/main.c6e3e026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46c1e4f5.css",
+    "static/js/main.c6e3e026.js"
+  ]
+}
