@@ -1,0 +1,45 @@
+.flex1{
+    flex:1
+}
+.flex2{
+    flex: 2;
+}
+.categoryimg{
+    width: 100%;
+    object-fit: contain;
+}
+.categoryimghight{
+    height: 100%;
+    object-fit: cover;
+}
+.categorycontainer{
+    height: 90vh;
+}
+.categoriesBtn{
+    position: absolute;
+    min-width: 100px;
+    width: fit-content;
+    height: 50px;
+    padding: 10px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: none;
+    border-radius: 10px;
+    background-color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+@media (max-width:600px) {
+    .categorycontainer{
+        height: 100%;
+    }
+    .categoryimghight{
+        width: 100%;
+        object-fit: cover;
+    }
+}
